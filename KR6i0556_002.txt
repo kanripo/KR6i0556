@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:34.292170
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:22
 #+TITLE: 圓覺經大疏鈔科
 #+PROPERTY: CBETA_ID X09n0244
 #+PROPERTY: ID KR6i0556
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 09, No. 244
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0556_X_002-0419a> 
 #+PROPERTY: JUAN 2
-No.244¶
-
- 大方廣圓覺經大疏鈔科中¶
+No. 244¶
+大方廣圓覺經大疏鈔科中¶
 圭峯蘭若沙門　宗密　製¶
 ¶
 
