@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:34.292170
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:23
 #+TITLE: 圓覺經大疏鈔科
 #+PROPERTY: CBETA_ID X09n0244
 #+PROPERTY: ID KR6i0556
